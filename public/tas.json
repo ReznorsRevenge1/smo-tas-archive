@@ -1,6 +1,6 @@
 [
     {
-        "id": 132,
+        "id": 133,
         "name": "2P Frogless",
         "kingdom": "Cap",
         "time": "16.767",
@@ -16,7 +16,7 @@
         "date": "20231220"
     },
     {
-        "id": 131,
+        "id": 132,
         "name": "2P City Hall Warp -> Enter People Room",
         "kingdom": "Metro",
         "time": "40.183",
@@ -32,7 +32,7 @@
         "date": "20231119"
     },
     {
-        "id": 130,
+        "id": 131,
         "name": "2P Wire Shoot -> Enter Bullet Billding (Metro reroute)",
         "kingdom": "Metro",
         "time": "1:03.433",
@@ -48,7 +48,7 @@
         "date": "20231118"
     },
     {
-        "id": 129,
+        "id": 130,
         "name": "Snow Dram v2",
         "kingdom": "Snow",
         "time": "??",
@@ -57,7 +57,7 @@
         ],
         "video": "https://youtu.be/0fI6HHLJ9O8",
         "thumbnail": "https://i.ytimg.com/vi/0fI6HHLJ9O8/mqdefault.jpg",
-        "script": "/smo/scripts/129.txt",
+        "script": "/smo/scripts/130.txt",
         "setup": "??",
         "version": "1.0",
         "notes": "",
