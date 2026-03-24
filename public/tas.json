@@ -1,5 +1,54 @@
 [
     {
+        "id": 136,
+        "name": "APCPG Bullet Maze Room",
+        "kingdom": "Sand",
+        "time": "10.633",
+        "authors": [
+            "Intral"
+        ],
+        "video": "https://youtu.be/NW9x-sYGOUI",
+        "thumbnail": "https://i.ytimg.com/vi/NW9x-sYGOUI/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1GeyZBgnicG0Nw0TE29py34yuzFqBY5W3/view?usp=sharing",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20240607"
+    },
+    {
+        "id": 135,
+        "name": "Snow Dram v3",
+        "kingdom": "Snow",
+        "time": "??",
+        "authors": [
+            "Mighty Owl"
+        ],
+        "video": "https://youtu.be/2L3ou5ugB94",
+        "thumbnail": "https://i.ytimg.com/vi/2L3ou5ugB94/mqdefault.jpg",
+        "script": "/smo/scripts/135.txt",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "",
+        "date": "20240510"
+    },
+    {
+        "id": 134,
+        "name": "Mech Split",
+        "kingdom": "Bowsers",
+        "time": "3:07.267",
+        "authors": [
+            "Xiivler",
+            "FT"
+        ],
+        "video": "https://youtu.be/OL0xVDcB_j0",
+        "thumbnail": "https://i.ytimg.com/vi/OL0xVDcB_j0/mqdefault.jpg",
+        "script": "https://drive.google.com/file/d/1yh5geqfC1nWeKoZ5hWqCXQuPud8cwfHX/view?usp=sharing",
+        "setup": "??",
+        "version": "1.0",
+        "notes": "In total, this TAS saves 334f (5.467 seconds) over BTT (as of 2/25/24) and 183 frames (3.05 seconds) over previous TASes. The +1f to BTT in the multimoon grab is likely the result of a skipped frame in the current BTT segment.",
+        "date": "20240225"
+    },
+    {
         "id": 133,
         "name": "2P Frogless",
         "kingdom": "Cap",
